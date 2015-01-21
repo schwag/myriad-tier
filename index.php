@@ -88,21 +88,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">LEADERSHIP</h2>
+                        <h2 class="text-center">COMPANY</h2>
                             <div class="row text-center">
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
                                     <img src="img/ourstory.jpg" class="img-responsive" alt="Our Story">
                                     </div>
                                     <h4>Our Story</h4>
-                                    <span><a href="#adam-leadership" id="adamyakish" role="button" class="mc-bio-btn" data-toggle="modal"></a></span>
+                                    <span><a href="#our-story" id="adamyakish" role="button" class="mc-bio-btn" data-toggle="modal"></a></span>
                                 </div>
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
                                     <img src="img/ourpeople.jpg" class="img-responsive" alt="Our People">
                                     </div>
                                     <h4>Our People</h4>
-                                    <span><a href="#ryan-leadership" id="ryanbardo" role="button" class="mc-bio-btn" data-toggle="modal"></a></span>
+                                    <span><a href="#our-people" id="ryanbardo" role="button" class="mc-bio-btn" data-toggle="modal"></a></span>
                                 </div>
                             </div>
                     </div>
@@ -117,7 +117,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
-                         <h2 class="text-center">This Month's Featured Customers</h2>
+                         <h2 class="text-center">THIS MONTH'S FEATURED CUSTOMERS</h2>
                         <p class="text-center">Each month we choose a few of our customers to feature. It's our little way of saying THANK YOU to each and every one of you.</p>
                             <div class="row text-center caseLogos">
                                 <div class="col-sm-4 smallHeading"> 
