@@ -92,22 +92,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="row text-center">
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
-                                    <img src="img/adam_new.jpg" width="300px" height="300px" alt="Adam Yakish">
+                                    <img src="img/ourstory.jpg" class="img-responsive" alt="Our Story">
                                     </div>
-                                    <h4>Adam Yakish</h4>
-                                    <p>DIRECTOR OF TECHNOLOGY</p>
-                                    <p><i>Always the beautiful answer who asks a more beautiful question.</i></p>
+                                    <h4>Our Story</h4>
                                     <span><a href="#adam-leadership" id="adamyakish" role="button" class="mc-bio-btn" data-toggle="modal"></a></span>
                                 </div>
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
-                                    <img src="img/ryan_new.jpg" width="300px" height="300px" alt="Ryan Bardo">
+                                    <img src="img/ourpeople.jpg" class="img-responsive" alt="Our People">
                                     </div>
-                                    <h4>Ryan Bardo</h4>
-                                    <p>DIRECTOR OF OPERATIONS</p>
-                                    <p><i>You play to win the game.</i></p>
-                                    </br>
-                                </br>
+                                    <h4>Our People</h4>
                                     <span><a href="#ryan-leadership" id="ryanbardo" role="button" class="mc-bio-btn" data-toggle="modal"></a></span>
                                 </div>
                             </div>
